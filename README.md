@@ -1,1 +1,1 @@
-# SolveClimateChange.githum.io
+# SolveClimateChange.github.io
